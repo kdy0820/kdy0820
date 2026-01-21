@@ -11,9 +11,9 @@ By combining a technical foundation in Python and SQL with the executive-level v
 ---
 
 ### 📂 Key Projects
-[Olist: Strategic Performance Analysis](link-to-repo)
+[Olist: Strategic Performance Analysis](link-to-repo) | PostgreSQL, Pandas, Tableau
 
-[NexGen Systems: B2B Marketing & Capital Efficiency Audit](link-to-repo) 
+[NexGen Systems: B2B Marketing & Capital Efficiency Audit](link-to-repo) | Excel
 
 ---
 
