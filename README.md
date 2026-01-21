@@ -41,7 +41,7 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 😁 Some Facts About Me
-* 🌎 Global Citizen (YVR -> MNL -> BCN)
+* 🌎 Frequent Flyer (YVR -> MNL -> BCN)
 * 📺 Binge Watcher (LOTR is peak)
 * 🎧 R&B Enthusiast (Top 0.01% Giveon listener)
 * 🎮 RPG Gamer (Fav. Titles: GoW 2018, Cyberpunk 2077)
