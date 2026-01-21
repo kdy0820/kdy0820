@@ -44,8 +44,9 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 😁 Some Facts About Me
-* 🇵🇭 Born + Raised in the Philippines
-* 🎧 R&B Enthusiast (Top 0.01% Giveon Listener)
+* 🌎 Global Citizen (YVR -> MNL -> BCN)
+* 📺 Binge Watcher (LOTR is peak)
+* 🎧 R&B Enthusiast (Top 0.01% Giveon listener)
 * 🎮 RPG Gamer (Fav. Titles: GoW 2018, Cyberpunk 2077)
 
 ---
