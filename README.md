@@ -49,4 +49,5 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kdy06%20-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kdy06) [![Email](https://img.shields.io/badge/Email-kdy06%40student.ubc.ca-blue?style=flat-square&logo=gmail)](mailto:kdy06@student.ubc.ca)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-kdy06%20-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kdy06) 
+* [![Email](https://img.shields.io/badge/Email-kdy06%40student.ubc.ca-blue?style=flat-square&logo=gmail)](mailto:kdy06@student.ubc.ca)
