@@ -1,6 +1,4 @@
-### Hey there! 👋
-
----
+## Hey there! 👋
 
 I'm Keith, a second-year student at UBC Sauder working towards a marketing analyst role in the tech industry. 
 
