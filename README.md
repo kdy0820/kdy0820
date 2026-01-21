@@ -38,7 +38,6 @@ By transforming datasets into actionable business insights, I seek to uncover th
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat-square&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -52,5 +51,4 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 🔗 Connect with Me
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-kdy06%20-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kdy06)
-* [![Email](https://img.shields.io/badge/Email-kdy06%40student.ubc.ca-blue?style=flat-square&logo=gmail)](mailto:kdy06@student.ubc.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kdy06%20-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kdy06) [![Email](https://img.shields.io/badge/Email-kdy06%40student.ubc.ca-blue?style=flat-square&logo=gmail)](mailto:kdy06@student.ubc.ca)
