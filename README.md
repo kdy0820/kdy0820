@@ -9,9 +9,9 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 📂 Key Projects
-[Marketing Campaign Effectiveness Review](https://github.com/kdy0820/marketing_campaign_effectiveness) | PostgreSQL, Pandas, Tableau
+[Campaign Targeting & Customer Value Analysis](https://github.com/kdy0820/marketing_campaign_effectiveness) | PostgreSQL, Pandas, Tableau
 
-[Marketing Capital Efficiency Audit](https://github.com/kdy0820/nexgen_marketing_capital_efficiency) | Excel
+[Marketing Spend Efficiency Audit](https://github.com/kdy0820/marketing_capital_efficiency) | Excel
 
 ---
 
