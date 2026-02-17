@@ -9,9 +9,9 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 📂 Key Projects
-[Olist: Strategic Performance Analysis](https://github.com/kdy0820/olist_strategic_performance_analysis) | PostgreSQL, Pandas, Tableau
+[Marketing Campaign Effectiveness Review](https://github.com/kdy0820/marketing_campaign_effectiveness) | PostgreSQL, Pandas, Tableau
 
-[NexGen Systems: Marketing Capital Efficiency Audit](https://github.com/kdy0820/nexgen_marketing_capital_efficiency) | Excel
+[Marketing Capital Efficiency Audit](https://github.com/kdy0820/nexgen_marketing_capital_efficiency) | Excel
 
 ---
 
