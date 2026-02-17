@@ -9,7 +9,9 @@ By transforming datasets into actionable business insights, I seek to uncover th
 ---
 
 ### 📂 Key Projects
-[Campaign Targeting & Customer Value Analysis](https://github.com/kdy0820/campaign_targetting) | PostgreSQL, Pandas, Tableau
+[Campaign Targeting & Customer Value Analysis](https://github.com/kdy0820/campaign_targetting) | Python, PostgreSQL, Tableau
+
+[Customer Shopping Behavior Analysis](https://github.com/kdy0820/shopping_behavior) | Python, PostgreSQL, Tableau
 
 [Marketing Spend Efficiency Audit](https://github.com/kdy0820/spend_efficiency) | Excel
 
@@ -21,10 +23,8 @@ By transforming datasets into actionable business insights, I seek to uncover th
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter" />
