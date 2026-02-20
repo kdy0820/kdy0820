@@ -12,7 +12,7 @@ By transforming datasets into actionable business insights, I seek to uncover th
 
 [Customer Shopping Behavior Analysis](https://github.com/kdy0820/shopping_behavior) | Python, PostgreSQL, Tableau
 
-[Marketing Performance & CPA Optimization](https://github.com/kdy0820/spend_efficiency) | Excel
+[Marketing Performance & CPA Optimization](https://github.com/kdy0820/cpa_optimization) | Excel
 
 
 ### 🛑 Projects in Progress
