@@ -1,10 +1,8 @@
 ## Hey there! 👋
 
-I'm Keith, a second-year student at UBC Sauder working towards a marketing analyst role in the tech industry. 
+I'm Keith, a second-year student at UBC Sauder working towards a marketing role in the tech industry. 
 
 My interest in understanding human behavior is at the core of what I do, and it has propelled me to bridge the gap between raw data and strategic storytelling.
-
-By transforming datasets into actionable business insights, I seek to uncover the "why" behind consumer trends and ultimately provide value to stakeholders. 
 
 ---
 
