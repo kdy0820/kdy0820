@@ -2,7 +2,7 @@
 
 I'm Keith, a second-year student at UBC Sauder working towards a digital marketing/product marketing role in the tech industry. 
 
-My interest in understanding human behavior is at the core of what I do, and it has propelled me to bridge the gap between raw data and strategic storytelling.
+I've always been interested in understanding the intricacies of human behavior but I've never been technical. This is my attempt at getting a little more familiar with coding to analyze data and extract actionable insights.
 
 ---
 
